@@ -5,8 +5,7 @@ title: Proposal
 
 # Proposal
 
-[Electroculture Gardening Proposal.pdf](https://github.com/user-attachments/files/26946154/Electroculture.Gardening.Proposal.pdf)
-
+<img width="540" height="718" alt="image" src="https://github.com/user-attachments/files/26946154/Electroculture.Gardening.Proposal.pdf" />
 
 
 
