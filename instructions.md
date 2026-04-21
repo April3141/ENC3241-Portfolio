@@ -5,7 +5,7 @@ title: Instructions
 
 # Instructions
 
-[How to Assemble Cake Pops
+How to Assemble Cake Pops
 
 Step 1. Remove the crusty edges of your baked cake and discard them. (Figures 1 & 2)
 
@@ -71,4 +71,3 @@ Step 20. Place the cake pops on the wax paper lined baking sheets. (Figure 7)
 Figure 7. Dipped cake pops (I didn’t have treat sticks). (Source: April)
 
 Step 21. Refrigerate the cake pops for 5 minutes to complete the process.
-]
