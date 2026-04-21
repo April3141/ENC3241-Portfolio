@@ -5,8 +5,6 @@ title: Proposal
 
 # Proposal
 
-[Electroculture Gardening Proposal.html](https://github.com/user-attachments/files/26946453/Electroculture.Gardening.Proposal.html)
-
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
