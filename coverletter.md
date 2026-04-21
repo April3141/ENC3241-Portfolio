@@ -5,7 +5,7 @@ title: Cover Letter
 
 # Cover Letter
 
-[4000 Central Florida Blvd
+4000 Central Florida Blvd
 Orlando, FL 32820
 
 Human Resources Representative
@@ -34,4 +34,3 @@ Sincerely,
 April Lamoureux
 
 Enclosures: 2
-]
